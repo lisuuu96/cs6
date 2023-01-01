@@ -3,5 +3,9 @@ p{
     width: 100px;
     height: 100px;
 }
-.paragraph{background-color: blue}
-.opa{opacity: 50%;}
+.paragraph{
+    background-color: blue;
+}
+.opa{
+    opacity: 50%;
+}
